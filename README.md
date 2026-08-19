@@ -4,6 +4,8 @@ Distribution of the PayMitto SDK wrapper for React Native.
 
 **Repository:** https://github.com/PayMitto/paymitto-react-native
 
+**Current version:** 11.0.1 — bundles PayMitto iOS SDK 11.0.2 and Android SDK 11.0.4
+
 ## Requirements
 
 - Node.js 20+
@@ -19,13 +21,13 @@ Distribution of the PayMitto SDK wrapper for React Native.
 ## Installation
 
 ```bash
-npm install react-native-paymitto-sdk-11.0.0.tgz
+npm install react-native-paymitto-sdk-11.0.1.tgz
 ```
 
 Or with Yarn:
 
 ```bash
-yarn add file:./react-native-paymitto-sdk-11.0.0.tgz
+yarn add file:./react-native-paymitto-sdk-11.0.1.tgz
 ```
 
 ### iOS Setup
